@@ -1,11 +1,11 @@
 {
   "name": "@okkkde/vconsole",
-  "version": "3.15.4",
+  "version": "3.15.5",
   "description": "A lightweight, extendable front-end developer tool for mobile web page.",
   "publishConfig": {
     "access": "public"
   },
-  "homepage": "https://github.com/Tencent/vConsole",
+  "homepage": "https://github.com/okkkde/vConsole",
   "files": [
     "dist/*",
     "build/vendor.d.ts",
